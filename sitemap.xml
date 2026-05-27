@@ -1,40 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b04-hd-night-rv-1/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b04-hd-night-rv-1/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/compare-005.html</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b04-hd-night-rv-1/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/guide-003.html</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b04-hd-night-rv-1/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/guide-004.html</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b04-hd-night-rv-1/posts/juice-1.html</loc>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/juice-1.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b04-hd-night-rv-1/posts/juice-2.html</loc>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/juice-2.html</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/normal-1.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/normal-2.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/normal-3.html</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/review-001.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/review-002.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/posts/t3link-006.html</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://t3b04-hd-night-rv-1.pages.dev/feed.xml</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
