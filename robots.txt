@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mullae-fullsalon-note.maphoshirts.today/sitemap.xml
-Sitemap: https://mullae-fullsalon-note.maphoshirts.today/sitemap-pages.xml
+Sitemap: https://hongdae-song-room.node-link.shop/sitemap.xml
+Sitemap: https://hongdae-song-room.node-link.shop/sitemap-pages.xml
